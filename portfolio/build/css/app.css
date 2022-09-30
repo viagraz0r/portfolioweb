@@ -983,7 +983,7 @@ progress::-moz-progress-bar {
 	top: 0;
 	left: 0;
 	z-index: 15;
-	background: url('build/assets/textures/binding-dark-texture.png');
+	background: url('/build/assets/textures/binding-dark-texture.png');
 }
 @media (min-width: 992px) {
 	.hero .texture {
